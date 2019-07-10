@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "order": [
     {
       "id": 1,
-      "title": "hello"
+      "product": "Product 1",
+      "date_purchased": "2019-07-08"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
