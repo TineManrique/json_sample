@@ -1,0 +1,16 @@
+{
+  "order": [
+    {
+      "id": 1,
+      "productName": "Product 1",
+      "datePurchased": "2019-07-08",
+      "immediate": "yes"
+    },
+    {
+      "id": 2,
+      "productName": "Product 2",
+      "datePurchased": "2018-01-01",
+      "immediate": "no"
+    }
+  ]
+}
