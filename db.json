@@ -4,6 +4,11 @@
       "id": 1,
       "product": "Product 1",
       "date_purchased": "2019-07-08"
+    },
+    {
+      "id": 2,
+      "product": "Product 2",
+      "date_purchased": "2018-01-01"
     }
   ]
 }
