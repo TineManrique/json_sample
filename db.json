@@ -2,13 +2,15 @@
   "order": [
     {
       "id": 1,
-      "product": "Product 1",
-      "date_purchased": "2019-07-08"
+      "productName": "Product 1",
+      "datePurchased": "2019-07-08",
+      "immediate": "yes"
     },
     {
       "id": 2,
-      "product": "Product 2",
-      "date_purchased": "2018-01-01"
+      "productName": "Product 2",
+      "datePurchased": "2018-01-01",
+      "immediate": "no"
     }
   ]
 }
