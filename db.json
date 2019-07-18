@@ -1,16 +1,8 @@
 {
-  "orders": [
-    {
+  "orders": {
       "orderId": 1,
       "productName": "Product 1",
       "validity": "",
       "immediate": "yes"
-    },
-    {
-      "orderId": 2,
-      "productName": "Product 2",
-      "validity": "2018-01-01",
-      "immediate": "no"
-    }
-  ]
+  }
 }
