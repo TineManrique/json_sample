@@ -3,13 +3,13 @@
     {
       "orderId": 1,
       "productName": "Product 1",
-      "validity": "",
+      "validity": "2019-01-01",
       "immediate": "yes"
     },
     {
       "orderId": 2,
       "productName": "Product 2",
-      "validity": "",
+      "validity": "2019-02-02",
       "immediate": "yes"
     }
   ],
