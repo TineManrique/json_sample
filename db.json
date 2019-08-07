@@ -18,5 +18,17 @@
     "productName": "Product 3",
     "validity": "",
     "immediate": "yes"
+  },
+  "success" : {
+    "uuid": "uuid12345",
+    "callbackUrl": "callback/url"
+  },
+  "failed" : {
+    "traceId": "Sample Trace Id",
+    "timestamp": "2019-08-07T06:40:34.452Z",
+    "exceptionCode": "EXCEPTION_XXX",
+    "reason": "Sample Reason",
+    "status": "Sample Status",
+    "message": "Failed to reserve"
   }
 }
