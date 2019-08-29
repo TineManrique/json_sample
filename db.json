@@ -1,13 +1,13 @@
 {
   "orders": [
     {
-      "orderId": 1,
+      "id": 1,
       "productName": "Product 1",
       "validity": "2019-01-01",
       "immediate": "yes"
     },
     {
-      "orderId": 2,
+      "id": 2,
       "productName": "Product 2",
       "validity": "2019-02-02",
       "immediate": "yes"
